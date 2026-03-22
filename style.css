@@ -252,6 +252,7 @@ content2
 }
 .content2 img {
     width: 100%;
+    height: auto;
 }
 .content2 .img-wrapper p {
     position: absolute;
@@ -292,6 +293,7 @@ content3
 }
 .content3 img {
     width: 100%;
+    height: auto;
 }
 .content3 .img-wrapper {
     position: relative;
